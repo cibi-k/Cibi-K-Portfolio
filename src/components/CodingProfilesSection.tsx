@@ -6,7 +6,7 @@ import { useGitHubStats } from "@/hooks/useGitHubStats";
 
 const profiles = [
   { name: "LeetCode", url: "https://leetcode.com/u/CibiK319/", icon: Code, gradient: "from-[hsl(35,85%,55%)] to-[hsl(25,90%,50%)]", description: "Solving DSA problems", stats: "200+ solved", rating: "1539" },
-  { name: "Codeforces", url: "https://codeforces.com/profile/Cibi-k-112", icon: Swords, gradient: "from-[hsl(210,80%,50%)] to-[hsl(230,70%,55%)]", description: "Competitive programmer", stats: "100+ solved", rating: "Newbie" },
+  { name: "Codeforces", url: "https://codeforces.com/profile/cibik", icon: Swords, gradient: "from-[hsl(210,80%,50%)] to-[hsl(230,70%,55%)]", description: "Competitive programmer", stats: "100+ solved", rating: "Newbie" },
   { name: "CodeChef", url: "https://www.codechef.com/users/cibi_k", icon: Trophy, gradient: "from-[hsl(10,70%,50%)] to-[hsl(30,80%,55%)]", description: "Competitive Coder", stats: "2★ rated", rating: "1530" },
   { name: "GeeksforGeeks", url: "https://www.geeksforgeeks.org/profile/cibik", icon: BookOpen, gradient: "from-[hsl(140,60%,40%)] to-[hsl(160,50%,45%)]", description: "Practice & learning", stats: " 100+" },
    { name: "Coding Ninjas ", url: "https://www.naukri.com/code360/profile/cibik", icon: Swords, gradient: "from-[hsl(210,80%,50%)] to-[hsl(230,70%,55%)]", description: "Competitive programmer", stats: "50+ solved", rating: "1472" },
